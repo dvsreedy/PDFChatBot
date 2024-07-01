@@ -17,14 +17,11 @@ PDFChatBot is an AI-powered chatbot designed to read, learn from, and answer que
    cd PDFChatBot
    ```
 
-2. **Install the required dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Set up the project:**
-   - Ensure you have a folder named `pdfs` in the project directory where all PDF files will be stored.
+2. **Set up the project:**
+   - This project has been written to work on Google Colab or local jupyter notebook.
+   - The pdfs, will be stored in a folder, and make sure, the pdfs are not very lengthy.
    - Update the configuration file (if any) with necessary paths or settings.
+   - Run through the blocks in the order, which will lead to an interface, to ask questions.
 
 ## Usage
 
